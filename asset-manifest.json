@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/tweets-followers/static/css/main.7acaea2f.css",
-    "main.js": "/tweets-followers/static/js/main.07d3183d.js",
+    "main.css": "/tweets-followers/static/css/main.ff72c1e5.css",
+    "main.js": "/tweets-followers/static/js/main.dc345952.js",
+    "static/js/873.f9db1c5c.chunk.js": "/tweets-followers/static/js/873.f9db1c5c.chunk.js",
+    "static/js/800.0c1371a5.chunk.js": "/tweets-followers/static/js/800.0c1371a5.chunk.js",
+    "static/css/430.c41baa43.chunk.css": "/tweets-followers/static/css/430.c41baa43.chunk.css",
+    "static/js/430.e3bc6275.chunk.js": "/tweets-followers/static/js/430.e3bc6275.chunk.js",
+    "static/media/background-image.jpg": "/tweets-followers/static/media/background-image.5a2260f65149b05fbb50.jpg",
+    "static/media/card-background-image.png": "/tweets-followers/static/media/card-background-image.032662a2a907475127d7.png",
+    "static/media/avatar-frame.png": "/tweets-followers/static/media/avatar-frame.124bb633313c2d5adbe0.png",
+    "static/media/goit-icon.svg": "/tweets-followers/static/media/goit-icon.e917114d7945c04c85a8946a331d28b6.svg",
     "index.html": "/tweets-followers/index.html",
-    "main.7acaea2f.css.map": "/tweets-followers/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/tweets-followers/static/js/main.07d3183d.js.map"
+    "main.ff72c1e5.css.map": "/tweets-followers/static/css/main.ff72c1e5.css.map",
+    "main.dc345952.js.map": "/tweets-followers/static/js/main.dc345952.js.map",
+    "873.f9db1c5c.chunk.js.map": "/tweets-followers/static/js/873.f9db1c5c.chunk.js.map",
+    "800.0c1371a5.chunk.js.map": "/tweets-followers/static/js/800.0c1371a5.chunk.js.map",
+    "430.c41baa43.chunk.css.map": "/tweets-followers/static/css/430.c41baa43.chunk.css.map",
+    "430.e3bc6275.chunk.js.map": "/tweets-followers/static/js/430.e3bc6275.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.ff72c1e5.css",
+    "static/js/main.dc345952.js"
   ]
 }
