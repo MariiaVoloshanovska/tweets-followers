@@ -43,7 +43,7 @@ const Tweets = () => {
 
   return (
     <Container>
-      {!isLoading && usersSet.length > 0 && <CardList usersSet={usersSet} />}
+      {usersSet.length > 0 && <CardList usersSet={usersSet} />}
       {isLoading && <Loader />}
       {!isLoading && usersSet.length > 0 && (
         <Button onClick={loadMore} type="button">
