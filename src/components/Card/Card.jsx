@@ -36,7 +36,6 @@ export const Card = ({ card }) => {
     }
   };
 
-  // ------LOCALstorage
   const isFirstRender = useRef(true);
 
   useEffect(() => {
