@@ -21,7 +21,7 @@ import avatarFrame from "components/assets/avatar-frame.png";
 import avatarDefault from "components/assets/avatar-Hansel.png";
 
 export const Card = ({ card }) => {
-  const { id, user, tweets, followers, avatar } = card;
+  const { id, tweets, followers, avatar } = card;
 
   const [value, setValue] = useState(followers);
   const [isClicked, setIsClicked] = useState(false);
